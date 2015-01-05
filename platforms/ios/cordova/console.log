@@ -1,0 +1,8 @@
+2015-01-05 09:32:57.275 myApp[2412:30252] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Sam/Library/Developer/CoreSimulator/Devices/A437C3C8-2C77-4060-9570-A48683BC470C/data/Containers/Data/Application/CE0E8B81-5BB0-455D-961A-3C7E927675DD/Library/Cookies/Cookies.binarycookies
+2015-01-05 09:32:57.557 myApp[2412:30252] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 09:32:57.557 myApp[2412:30252] Multi-tasking -> Device: YES, App: YES
+2015-01-05 09:32:57.570 myApp[2412:30252] Unlimited access to network resources
+2015-01-05 09:32:58.058 myApp[2412:30252] [CDVTimer][keyboard] 0.100017ms
+2015-01-05 09:32:58.058 myApp[2412:30252] [CDVTimer][TotalPluginStartup] 0.392020ms
+2015-01-05 09:32:59.119 myApp[2412:30252] Resetting plugins due to page load.
+2015-01-05 09:32:59.415 myApp[2412:30252] Finished load of: file:///Users/Sam/Library/Developer/CoreSimulator/Devices/A437C3C8-2C77-4060-9570-A48683BC470C/data/Containers/Bundle/Application/37812BDC-49CF-4EE1-BE79-D9B2B7A9972C/myApp.app/www/index.html#/tab/dash
